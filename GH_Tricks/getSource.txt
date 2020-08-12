@@ -1,0 +1,9 @@
+#Definition looks at the rhinoscriptsyntax functions, which are “wrappers” for rhinocommon
+
+#From https://discourse.mcneel.com/t/rhinocommon-ghpython-how-to-find-if-a-point-lies-on-a-surface/77966/2
+
+import rhinoscriptsyntax as rs
+import inspect
+
+print(inspect.getsource(rs.IsPointOnSurface))
+output = inspect.getsource(rs.IsPointOnSurface)
