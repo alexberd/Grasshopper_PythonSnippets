@@ -1,4 +1,4 @@
-#Definition looks at the rhinoscriptsyntax functions, which are “wrappers” for rhinocommon
+#Definition reveals the rhinoscriptsyntax functions (“wrappers” for rhinocommon)
 
 #From https://discourse.mcneel.com/t/rhinocommon-ghpython-how-to-find-if-a-point-lies-on-a-surface/77966/2
 
