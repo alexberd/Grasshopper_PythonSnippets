@@ -1,5 +1,7 @@
 # Grasshopper Python Snippets
 Have you ever seen how easy is to create your own python node in Grasshopper?
+Python grasshopper nodes help boost your productivity allowing for extra or more effective Rhino API functionality.
+Minimise now you Grasshopper effort working with less nodes by taking advantage of Grasshopper Python scripting.
 
 #### Here you can get some ready-made function to help out with your Grasshopper Scripting 
 
