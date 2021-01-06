@@ -7,4 +7,4 @@ The difference to Galapagos is that you review your population, manipulate any o
 
 ### Usage
 Create a python node and copy-paste the [snippet](https://github.com/alexberd/Grasshopper_PythonSnippets/blob/master/GeneticAlgorithm/SingleObjectiveGeneticAlgorithm.py). Rename and connect it to the other nodes similar to the image below 
-![alt text](https://github.com/alexberd/Grasshopper_PythonSnippets/blob/master/GeneticAlgorithm/SingleObjectiveGeneticAlgorithm.JPG "Logo Title Text 1")
+![alt text](https://github.com/alexberd/Grasshopper_PythonSnippets/blob/master/GeneticAlgorithm/SingleObjectiveGeneticAlgorithm.JPG "Single Objective Genetic Algorithm Grasshopper Node")
