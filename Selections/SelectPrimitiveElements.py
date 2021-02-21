@@ -76,7 +76,8 @@ for l in range (len(Rhino.RhinoDoc.ActiveDoc.Layers)):
     for i in output_Curve_:
         if str(i.Attributes.LayerIndex)==str(l):
             elementByLayerCurve.append(i.Geometry)
-    CurveElements.append(elementByLayerCurve)
+    if len(elementByLayerCurve)!=0:
+        CurveElements.append(elementByLayerCurve)
 Curve=list_to_tree(CurveElements)
 
 ProjectName=Rhino.RhinoDoc.ActiveDoc.Name[:-4]
