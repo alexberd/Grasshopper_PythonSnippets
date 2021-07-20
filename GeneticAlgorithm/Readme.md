@@ -1,4 +1,5 @@
 ## Single Objective Genetic Algorithm within a Python Grasshopper Node
+**Original code transcript from [Alasdair Turner](https://en.wikipedia.org/wiki/Alasdair_Turner)**
 
 This implementation offers a very similar functionality to the [Grasshopper Galapagos](https://grasshopperdocs.com/addons/galapagos.html)
 
